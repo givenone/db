@@ -1,5 +1,0 @@
-INDEX VERSION 1.131+C:\Users\yeap98\Desktop\4-1\데이터베이스\Term Project\Project 1\.metadata\.plugins\org.eclipse.jdt.core
-3410205604.index
-1248545562.index
-2137298923.index
-3832205135.index
