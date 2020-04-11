@@ -13,4 +13,17 @@
 	</section>
 	<section name="quick_assist_proposal_size">
 	</section>
+	<section name="FatJarPackageWizard">
+		<item key="FatJarPackageWizardPage.ANTSCRIPT_SAVE" value="false"/>
+		<item key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION" value="C:\Users\yeap98\Desktop\4-1\데이터베이스\Term Project\Project 1"/>
+		<item key="FatJarPackageWizardPage.LIBRARY_HANDLING" value="1"/>
+		<item key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME" value="New_configuration (1) - PRJ1-1_2017-19428"/>
+		<item key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION" value="C:\Users\yeap98\Desktop\4-1\데이터베이스\Term Project\Project 1\PRJ1-1_2017-19428.jar"/>
+		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="C:\Users\yeap98\Desktop\4-1\데이터베이스\Term Project\Project 1\PRJ1-1_2017-19428.jar"/>
+		</list>
+		<list key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION_HISTORY">
+			<item value=".xml"/>
+		</list>
+	</section>
 </section>
